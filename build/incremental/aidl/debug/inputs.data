@@ -1,0 +1,21 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377277856000 1977 21b6b25b24f642897054abf968549660d28c2a39 C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\newsListAdapter.java
+1377277856000 805 c710b6ca95090d6183479acc1b2af275b253a042 C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\newsItem.java
+1377277854000 2595 2f87fc3af8faf3ca0a44b9b2d58e7a8e04490b2b C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\MyBroadcastReceiver.java
+1377277854000 6297 f673f07f69809f789ef7fd781a222424c451e2c4 C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\dunyaNewsFragment.java
+1377277856000 1157 6c3c447a8753261d6bd0857c0f262ed1f959941e C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\geoNewsListAdapter.java
+1377277856000 8531 fe00562a3019d99410bd0973f2fb1a7ac5f1f83c C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\GCM.java
+1377277854000 4475 24076291e7cff28074e63f51d5834c27fa7194a5 C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\geoNewsFragment.java
+1377277856000 3442 23a680f1f9807fe44fb2a8da6f7f9b3611c0b2ad C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\getDesc.java
+1377283790000 8511 ab30c7569d1de0f856725a6caf6fbec37c41d978 C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\MainActivity.java
+1377277856000 21539 96acf1c546d8102b1411fce798834f43537644a4 C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\AutoUpdateApk.java
+1377277854000 1787 c2b2b3b0d094df535041226f4f098ca35efd1041 C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\getGeoDesc.java
+1377277856000 1279 676a8e4ff618961fcf1221f41cf46e70cc4746be C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\newsPagerAdapter.java
+1377277856000 19592 a1d8921f4dcacc0df9a6690788fa1b00e4ba0b5b C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\PullToRefreshListView.java
+1377277856000 3402 4a6ead69b39a30c0821e6032a4302540b495f074 C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\getNews.java
+1377277856000 388 6a240308d0c8cacf0b003efb768e8fe516defc62 C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\IAsyncResult.java
+1377277854000 2009 22338576016eedaa73cf36ce77924a1f6e2fe611 C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\newsDetailFragment.java
+1377277856000 1966 2bdb14cc1f345ecf8d04c156cca952aee038c125 C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\getGeoNews.java
+1377277854000 145 03c0b0b142d177b499ff9166c227cd18349a42e1 C:\Users\Usman\Android Studio Projects\Headlines\src\com\ud\headlines\INewsDetail.java
