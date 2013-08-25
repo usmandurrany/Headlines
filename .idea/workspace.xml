@@ -15,8 +15,501 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="731743e5-5005-47bc-881b-dcc100ede0b5" name="Default" comment="Initial support for Android 2.3 API 10&#10;App now uses Gradle and compiles without error.">
+    <list default="true" id="731743e5-5005-47bc-881b-dcc100ede0b5" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\db_php\login.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\db_php\test.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\db_php\test.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\db_php\ubit.sql" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\ClientServerV1.afp.apk" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\ClientServerV1.apk" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\ClientServerV1.apk.res" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\ClientServerV1.unaligned.apk" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\AutoUpdateApk$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\AutoUpdateApk$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\AutoUpdateApk$ScheduleEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\AutoUpdateApk$checkUpdateTask.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\AutoUpdateApk.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\GCM$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\GCM$gcmRegServer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\GCM.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\IAsyncResult.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\INewsDetail.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\MainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\MainActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\MainActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\Manifest$permission.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\Manifest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\MyBroadcastReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\PullToRefreshListView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\PullToRefreshListView$HeaderAnimationListener$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\PullToRefreshListView$HeaderAnimationListener.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\PullToRefreshListView$OnRefreshListener.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\PullToRefreshListView$PTROnGlobalLayoutListener.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\PullToRefreshListView$PTROnItemClickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\PullToRefreshListView$PTROnItemLongClickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\PullToRefreshListView$State.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\PullToRefreshListView.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\R.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\dunyaNewsFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\dunyaNewsFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\dunyaNewsFragment$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\dunyaNewsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\geoNewsFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\geoNewsFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\geoNewsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\geoNewsListAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\getDesc$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\getDesc.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\getGeoDesc$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\getGeoDesc.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\getGeoNews.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\getNews.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\newsDetailFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\newsItem.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\newsListAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\ClientServerV1\com\ud\clientserverv1\newsPagerAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\AutoUpdateApk$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\AutoUpdateApk$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\AutoUpdateApk$ScheduleEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\AutoUpdateApk$checkUpdateTask.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\AutoUpdateApk.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\IAsyncResult.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\INewsDetail.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\R.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\geoNewsListAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\getDesc$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\getDesc.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\getGeoDesc$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\getGeoDesc.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\getGeoNews.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\getNews.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\newsDetailFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\newsItem.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\production\Headlines\com\ud\headlines\newsListAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\ab_bottom_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\ab_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\ab_stacked_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\ab_texture_tile_ud.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\ab_transparent_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\btn_cab_done_default_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\btn_cab_done_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\btn_cab_done_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\cab_background_bottom_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\cab_background_top_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\drawer_shadow.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\ic_drawer.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\ic_live.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\list_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\menu_dropdown_panel_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\nonews.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\nonews_s.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\progress_bg_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\progress_primary_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\progress_secondary_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\ptr_pulltorefresh_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\spinner_ab_default_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\spinner_ab_disabled_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\spinner_ab_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\spinner_ab_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\tab_selected_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\tab_selected_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\tab_selected_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\tab_unselected_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\tab_unselected_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-hdpi\tab_unselected_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-ldpi\ptr_pulltorefresh_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\ab_bottom_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\ab_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\ab_stacked_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\ab_texture_tile_ud.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\ab_transparent_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\btn_cab_done_default_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\btn_cab_done_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\btn_cab_done_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\cab_background_bottom_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\cab_background_top_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\drawer_shadow.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\ic_drawer.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\list_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\menu_dropdown_panel_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\progress_bg_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\progress_primary_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\progress_secondary_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\ptr_pulltorefresh_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\spinner_ab_default_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\spinner_ab_disabled_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\spinner_ab_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\spinner_ab_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\tab_selected_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\tab_selected_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\tab_selected_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\tab_unselected_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\tab_unselected_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-mdpi\tab_unselected_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\ab_bottom_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\ab_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\ab_stacked_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\ab_texture_tile_ud.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\ab_transparent_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\btn_cab_done_default_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\btn_cab_done_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\btn_cab_done_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\cab_background_bottom_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\cab_background_top_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\drawer_shadow.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\ic_drawer.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\list_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\menu_dropdown_panel_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\progress_bg_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\progress_primary_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\progress_secondary_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\spinner_ab_default_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\spinner_ab_disabled_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\spinner_ab_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\spinner_ab_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\tab_selected_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\tab_selected_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\tab_selected_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\tab_unselected_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\tab_unselected_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xhdpi\tab_unselected_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\ClientServerV1\drawable-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\ab_bottom_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\ab_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\ab_stacked_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\ab_texture_tile_ud.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\ab_transparent_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ab_bottom_solid_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ab_bottom_solid_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ab_bottom_transparent_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ab_bottom_transparent_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ab_share_pack_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ab_share_pack_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ab_solid_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ab_solid_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ab_stacked_solid_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ab_stacked_solid_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ab_stacked_transparent_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ab_stacked_transparent_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ab_transparent_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ab_transparent_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_cab_background_bottom_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_cab_background_bottom_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_cab_background_top_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_cab_background_top_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_ab_back_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_ab_back_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_cab_done_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_cab_done_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_clear_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_clear_normal.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_clear_search_api_disabled_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_clear_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_commit_search_api_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_commit_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_go.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_go_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_menu_moreoverflow_normal_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_menu_moreoverflow_normal_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_menu_share_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_menu_share_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_search.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_voice_search.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_ic_voice_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_list_divider_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_list_divider_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_menu_dropdown_panel_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_menu_dropdown_panel_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_menu_hardkey_panel_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_menu_hardkey_panel_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_spinner_ab_default_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_spinner_ab_default_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_spinner_ab_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_spinner_ab_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_spinner_ab_focused_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_spinner_ab_focused_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_spinner_ab_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_spinner_ab_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_tab_selected_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_tab_selected_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_tab_selected_pressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_tab_unselected_pressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_textfield_search_default_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_textfield_search_default_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_textfield_search_right_default_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_textfield_search_right_default_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_textfield_search_right_selected_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_textfield_search_right_selected_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_textfield_search_selected_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\abc_textfield_search_selected_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\btn_cab_done_default_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\btn_cab_done_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\btn_cab_done_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\cab_background_bottom_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\cab_background_top_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\drawer_shadow.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\ic_drawer.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\ic_live.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\list_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\menu_dropdown_panel_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\nonews.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\nonews_s.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\progress_bg_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\progress_primary_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\progress_secondary_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\ptr_pulltorefresh_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\spinner_ab_default_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\spinner_ab_disabled_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\spinner_ab_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\spinner_ab_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\tab_selected_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\tab_selected_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\tab_selected_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\tab_unselected_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\tab_unselected_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-hdpi\tab_unselected_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-ldpi\ptr_pulltorefresh_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\ab_bottom_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\ab_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\ab_stacked_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\ab_texture_tile_ud.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\ab_transparent_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ab_bottom_solid_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ab_bottom_solid_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ab_bottom_transparent_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ab_bottom_transparent_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ab_share_pack_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ab_share_pack_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ab_solid_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ab_solid_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ab_stacked_solid_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ab_stacked_solid_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ab_stacked_transparent_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ab_stacked_transparent_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ab_transparent_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ab_transparent_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_cab_background_bottom_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_cab_background_bottom_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_cab_background_top_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_cab_background_top_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_ab_back_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_ab_back_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_cab_done_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_cab_done_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_clear_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_clear_normal.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_clear_search_api_disabled_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_clear_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_commit_search_api_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_commit_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_go.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_go_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_menu_moreoverflow_normal_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_menu_moreoverflow_normal_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_menu_share_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_menu_share_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_search.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_voice_search.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_ic_voice_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_list_divider_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_list_divider_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_menu_dropdown_panel_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_menu_dropdown_panel_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_menu_hardkey_panel_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_menu_hardkey_panel_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_spinner_ab_default_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_spinner_ab_default_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_spinner_ab_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_spinner_ab_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_spinner_ab_focused_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_spinner_ab_focused_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_spinner_ab_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_spinner_ab_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_tab_selected_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_tab_selected_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_tab_selected_pressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_tab_unselected_pressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_textfield_search_default_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_textfield_search_default_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_textfield_search_right_default_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_textfield_search_right_default_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_textfield_search_right_selected_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_textfield_search_right_selected_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_textfield_search_selected_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\abc_textfield_search_selected_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\btn_cab_done_default_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\btn_cab_done_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\btn_cab_done_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\cab_background_bottom_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\cab_background_top_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\drawer_shadow.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\ic_drawer.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\list_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\menu_dropdown_panel_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\progress_bg_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\progress_primary_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\progress_secondary_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\ptr_pulltorefresh_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\spinner_ab_default_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\spinner_ab_disabled_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\spinner_ab_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\spinner_ab_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\tab_selected_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\tab_selected_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\tab_selected_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\tab_unselected_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\tab_unselected_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-mdpi\tab_unselected_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\ab_bottom_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\ab_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\ab_stacked_solid_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\ab_texture_tile_ud.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\ab_transparent_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ab_bottom_solid_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ab_bottom_solid_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ab_bottom_transparent_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ab_bottom_transparent_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ab_share_pack_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ab_share_pack_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ab_solid_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ab_solid_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ab_stacked_solid_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ab_stacked_solid_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ab_stacked_transparent_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ab_stacked_transparent_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ab_transparent_dark_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ab_transparent_light_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_cab_background_bottom_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_cab_background_bottom_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_cab_background_top_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_cab_background_top_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_ab_back_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_ab_back_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_cab_done_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_cab_done_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_clear_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_clear_search_api_disabled_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_clear_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_commit_search_api_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_commit_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_go.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_go_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_menu_moreoverflow_normal_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_menu_moreoverflow_normal_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_menu_share_holo_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_menu_share_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_search.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_voice_search.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_ic_voice_search_api_holo_light.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_list_divider_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_list_divider_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_menu_dropdown_panel_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_menu_dropdown_panel_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_menu_hardkey_panel_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_menu_hardkey_panel_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_spinner_ab_default_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_spinner_ab_default_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_spinner_ab_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_spinner_ab_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_spinner_ab_focused_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_spinner_ab_focused_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_spinner_ab_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_spinner_ab_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_tab_selected_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_tab_selected_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_tab_selected_pressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_tab_unselected_pressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_textfield_search_default_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_textfield_search_default_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_textfield_search_right_default_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_textfield_search_right_default_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_textfield_search_right_selected_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_textfield_search_right_selected_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_textfield_search_selected_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\abc_textfield_search_selected_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\btn_cab_done_default_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\btn_cab_done_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\btn_cab_done_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\cab_background_bottom_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\cab_background_top_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\drawer_shadow.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\ic_drawer.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\list_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\menu_dropdown_panel_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\progress_bg_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\progress_primary_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\progress_secondary_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\spinner_ab_default_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\spinner_ab_disabled_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\spinner_ab_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\spinner_ab_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\tab_selected_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\tab_selected_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\tab_selected_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\tab_unselected_focused_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\tab_unselected_pressed_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xhdpi\tab_unselected_ud.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Usman\Android Studio Projects\Headlines\out\res-cache\Headlines\drawable-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Headlines.iml" afterPath="$PROJECT_DIR$/Headlines.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ud/headlines/MainActivity.java" afterPath="$PROJECT_DIR$/src/com/ud/headlines/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ud/headlines/newsDetailActivity.java" afterPath="$PROJECT_DIR$/src/com/ud/headlines/newsDetailActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ud/headlines/newsUpadateCheck.java" afterPath="$PROJECT_DIR$/src/com/ud/headlines/newsUpadateCheck.java" />
     </list>
     <ignored path="ClientServerV1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,19 +573,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="4" selection-start="984" selection-end="984" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="4522">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="563" selection-end="563" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="340">
+            <state line="19" column="31" selection-start="689" selection-end="689" vertical-scroll-proportion="0.5521368" vertical-offset="0" max-vertical-offset="4454">
               <folding />
             </state>
           </provider>
@@ -101,52 +585,70 @@
       <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="14" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="697">
+            <state line="23" column="18" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gradlew.bat" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <file leaf-file-name="INewsDetail.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/INewsDetail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="1167" max-vertical-offset="1632">
+            <state line="5" column="16" selection-start="100" selection-end="107" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PullToRefreshListView.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/PullToRefreshListView.java">
+      <file leaf-file-name="dunyaNewsFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/dunyaNewsFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="247" column="59" selection-start="8444" selection-end="8444" vertical-scroll-proportion="0.0" vertical-offset="4182" max-vertical-offset="9299">
+            <state line="149" column="42" selection-start="5076" selection-end="5076" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="2635">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colors.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
+      <file leaf-file-name="newsUpadateCheck.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/newsUpadateCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="141" column="35" selection-start="6191" selection-end="6191" vertical-scroll-proportion="0.0" vertical-offset="1866" max-vertical-offset="2584">
+            <state line="125" column="17" selection-start="3319" selection-end="3319" vertical-scroll-proportion="0.0" vertical-offset="404" max-vertical-offset="2091">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <file leaf-file-name="getNews.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/getNews.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="833" selection-end="833" vertical-scroll-proportion="0.041769043" vertical-offset="289" max-vertical-offset="1139">
+            <state line="25" column="6" selection-start="613" selection-end="613" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1887">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <file leaf-file-name="getLatestNews.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/getLatestNews.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="37" selection-start="3225" selection-end="3225" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1003">
+            <state line="17" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1309">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getGeoNews.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/getGeoNews.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="69" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0" vertical-offset="574" max-vertical-offset="1292">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AutoUpdateApk.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/AutoUpdateApk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="13" selection-start="2192" selection-end="2192" vertical-scroll-proportion="0.0" vertical-offset="101" max-vertical-offset="8330">
               <folding />
             </state>
           </provider>
@@ -202,35 +704,37 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$" value="1377285182000" />
-        <entry key="C:\Users\Usman\Android Studio Projects\Headlines" value="1377287594125" />
+        <entry key="C:\Users\Usman\Android Studio Projects\Headlines" value="1377460208057" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ud/clientserverv1/newsListAdapter.java" />
-        <option value="$PROJECT_DIR$/src/com/ud/clientserverv1/getDesc.java" />
-        <option value="$PROJECT_DIR$/src/com/ud/clientserverv1/dunyaNewsFragment.java" />
-        <option value="$PROJECT_DIR$/src/com/ud/clientserverv1/newsDetailFragment.java" />
         <option value="$PROJECT_DIR$/src/com/ud/headlines/geoNewsListAdapter.java" />
         <option value="$PROJECT_DIR$/src/com/ud/headlines/newsListAdapter.java" />
         <option value="$PROJECT_DIR$/src/com/ud/headlines/AutoUpdateApk.java" />
-        <option value="$PROJECT_DIR$/src/com/ud/headlines/dunyaNewsFragment.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/src/com/ud/headlines/MainActivity.java" />
         <option value="$PROJECT_DIR$/project.properties" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/res/layout/geonewsfragment.xml" />
+        <option value="$PROJECT_DIR$/res/menu/main.xml" />
+        <option value="$PROJECT_DIR$/src/com/ud/headlines/dunyaNewsFragment.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/ud/headlines/newsDetailActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/ud/headlines/getLatestNews.java" />
+        <option value="$PROJECT_DIR$/res/values-large/dimens.xml" />
+        <option value="$PROJECT_DIR$/src/com/ud/headlines/newsUpadateCheck.java" />
+        <option value="$PROJECT_DIR$/src/com/ud/headlines/MainActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="776" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -258,20 +762,12 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Headlines" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -286,20 +782,26 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13/bin/git.exe" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
@@ -462,6 +964,7 @@
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
     <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">C:\Users\Usman\AppData\Roaming\Subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="TaskManager">
@@ -474,7 +977,11 @@
       <created>1377288793060</created>
       <updated>1377288793060</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Latest news fetch service added.&#10;News Detail View changed from Fragment to Activity.">
+      <created>1377457879327</created>
+      <updated>1377457879327</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -498,34 +1005,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="7" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32763976" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28360215" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32258064" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33064517" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17876343" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32258064" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6349024" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.67741936" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27324915" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1796875" sideWeight="0.67236024" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32795697" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15972222" sideWeight="0.82123655" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17876343" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.6008065" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.7163978" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32258064" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919356" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -539,104 +1046,121 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Initial support for Android 2.3 API 10&#10;App now uses Gradle and compiles without error." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial support for Android 2.3 API 10&#10;App now uses Gradle and compiles without error." />
+    <MESSAGE value="Latest news fetch service added.&#10;News Detail View changed from Fragment to Activity." />
+    <option name="LAST_COMMIT_MESSAGE" value="Latest news fetch service added.&#10;News Detail View changed from Fragment to Activity." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/os/AsyncTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="2155" selection-end="2155" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="952" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="18" selection-start="2354" selection-end="2354" vertical-scroll-proportion="0.0" vertical-offset="656" max-vertical-offset="1241">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-w720dp/bools.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="12" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-large/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/newsDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="19" selection-start="691" selection-end="691" vertical-scroll-proportion="0.02367688" vertical-offset="153" max-vertical-offset="1462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/newsListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="5" selection-start="1284" selection-end="1284" vertical-scroll-proportion="0.9233983" vertical-offset="0" max-vertical-offset="1139">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/getDesc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="5" selection-start="1592" selection-end="1592" vertical-scroll-proportion="0.02367688" vertical-offset="816" max-vertical-offset="1853">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/INewsDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="16" selection-start="100" selection-end="107" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="18" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/newsUpadateCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="17" selection-start="3319" selection-end="3319" vertical-scroll-proportion="0.0" vertical-offset="404" max-vertical-offset="2091">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/getNews.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="6" selection-start="613" selection-end="613" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/getLatestNews.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/getGeoNews.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="69" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0" vertical-offset="574" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/AutoUpdateApk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="31" selection-start="4643" selection-end="4643" vertical-scroll-proportion="1.213092" vertical-offset="1424" max-vertical-offset="9163" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/newsPagerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="39" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.89972144" vertical-offset="0" max-vertical-offset="952" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/geoNewsListAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="67" selection-start="817" selection-end="817" vertical-scroll-proportion="0.44986072" vertical-offset="0" max-vertical-offset="718" />
+        <state line="63" column="13" selection-start="2192" selection-end="2192" vertical-scroll-proportion="0.0" vertical-offset="101" max-vertical-offset="8330">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/dunyaNewsFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="34" selection-start="2233" selection-end="2233" vertical-scroll-proportion="0.47910863" vertical-offset="761" max-vertical-offset="3315" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="35" selection-start="6191" selection-end="6191" vertical-scroll-proportion="0.0" vertical-offset="1866" max-vertical-offset="2584">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="37" selection-start="3225" selection-end="3225" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1003">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/color/abc_search_url_text_holo.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="49" selection-start="980" selection-end="980" vertical-scroll-proportion="0.6757322" vertical-offset="0" max-vertical-offset="478" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/PullToRefreshListView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="247" column="59" selection-start="8444" selection-end="8444" vertical-scroll-proportion="0.0" vertical-offset="3649" max-vertical-offset="8840">
+        <state line="149" column="42" selection-start="5076" selection-end="5076" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="2635">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ud/headlines/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="4" selection-start="984" selection-end="984" vertical-scroll-proportion="0.0" vertical-offset="232" max-vertical-offset="4386">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="478" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.classpath">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="478" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="14" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="11" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2890" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1632">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="563" selection-end="563" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="833" selection-end="833" vertical-scroll-proportion="0.041769043" vertical-offset="289" max-vertical-offset="1139">
+        <state line="19" column="31" selection-start="689" selection-end="689" vertical-scroll-proportion="0.5521368" vertical-offset="0" max-vertical-offset="4454">
           <folding />
         </state>
       </provider>

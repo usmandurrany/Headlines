@@ -1,6 +1,7 @@
 package com.ud.headlines;
 
 
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.support.v4.app.ActionBarDrawerToggle;
@@ -15,11 +16,8 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
-import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
-import com.pagesuite.flowtext.FlowTextView;
-
 
 import java.util.ArrayList;
 import java.util.List;
@@ -36,7 +34,7 @@ public class MainActivity extends ActionBarActivity implements IAsyncResult {
     dunyaNewsFragment dunya = new dunyaNewsFragment();
     //geoNewsFragment geo = new geoNewsFragment(); //Unimplemented
 
-    newsDetailFragment newsDetail = new newsDetailFragment();
+    newsDetailActivity newsDetail = new newsDetailActivity();
 
     getNews getnews = new getNews(this);
 
@@ -51,6 +49,9 @@ public class MainActivity extends ActionBarActivity implements IAsyncResult {
         //aua.checkUpdates(true);
 
         setContentView(R.layout.activity_main);
+
+
+        startService(new Intent(this, newsUpadateCheck.class));
         drawerlst = (ListView) findViewById(R.id.left_drawer);
         drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
 
@@ -216,11 +217,14 @@ public class MainActivity extends ActionBarActivity implements IAsyncResult {
 
 
     public void detFragmentValue(Bitmap image, String desc) {
-        mNewsPagerAdapter.addPage(newsDetail, 2);
-        mViewPager.setCurrentItem(3);
-        ((ImageView) newsDetail.getView().findViewById(R.id.newsImgBig)).setImageBitmap(image);
-        ((FlowTextView) newsDetail.getView().findViewById(R.id.newsDesc)).setText(desc);
-        ((FlowTextView) newsDetail.getView().findViewById(R.id.newsDesc)).invalidate();
+       // mNewsPagerAdapter.addPage(newsDetail, 2);
+       // mViewPager.setCurrentItem(3);
+        Intent newsDetail = new Intent(this,newsDetailActivity.class);
+        newsDetail.putExtra("image",image);
+        newsDetail.putExtra("desc",desc);
+        //((ImageView) newsDetail.getView().findViewById(R.id.newsImgBig)).setImageBitmap(image);
+        //((FlowTextView) newsDetail.getView().findViewById(R.id.newsDesc)).setText(desc);
+        //((FlowTextView) newsDetail.getView().findViewById(R.id.newsDesc)).invalidate();
 
 
     }

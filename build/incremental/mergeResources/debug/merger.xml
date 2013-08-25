@@ -9209,6 +9209,8 @@ true
             <file
                 path="C:\Users\Usman\Android Studio Projects\Headlines\res\values-large\dimens.xml"
                 qualifiers="large" >
+                <dimen name="font_size" >200sp
+                </dimen>
                 <dimen name="abc_search_view_text_min_width" >192dip
                 </dimen>
 

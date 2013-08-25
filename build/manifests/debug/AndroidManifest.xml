@@ -38,7 +38,10 @@
             </intent-filter>
 
         </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/app_name" android:name="com.ud.headlines.newsDetailActivity">
 
+        </activity>
+       <service android:name="com.ud.headlines.newsUpadateCheck"/>
 
     </application>
 

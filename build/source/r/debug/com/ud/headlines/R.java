@@ -944,7 +944,8 @@ containing a value of this type.
         public static final int abc_search_view_text_min_width=0x7f08000f;
         /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-sw720dp-land\dimens.xml 
          */
-        public static final int activity_horizontal_margin=0x7f080010;
+        public static final int activity_horizontal_margin=0x7f080011;
+        public static final int font_size=0x7f080010;
     }
     public static final class drawable {
         public static final int ab_background_textured_ud=0x7f020000;

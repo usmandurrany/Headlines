@@ -21,5 +21,5 @@
      an action bar/action mode. This will be used to determine how many
      showAsAction="ifRoom" items can fit. "always" items can override this. -->
     <integer name="abc_max_action_buttons">4</integer>
-
+    <dimen name="font_size">200sp</dimen>
 </resources>
