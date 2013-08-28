@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-v14\styles_base.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-v14\styles_base.xml -->
     <style name="TextAppearance.AppCompat.Base.SearchResult.Subtitle" parent="@android:TextAppearance.Holo.SearchResult.Subtitle"></style>
 
     <style name="TextAppearance.AppCompat.Base.SearchResult.Title" parent="@android:TextAppearance.Holo.SearchResult.Title"></style>
@@ -35,7 +35,7 @@
     <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title" parent="android:TextAppearance.Holo.Widget.ActionMode.Title"></style>
 
     <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse" parent="android:TextAppearance.Holo.Widget.ActionMode.Title.Inverse"></style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-v14\themes_base.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-v14\themes_base.xml -->
     <style name="Theme.Base.AppCompat" parent="android:Theme.Holo">
 
         <!-- Copy system flag values for our use -->
@@ -110,7 +110,7 @@
         <item name="buttonBarStyle">?android:attr/buttonBarStyle</item>
         <item name="buttonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
     </style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-v14\styles_base.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-v14\styles_base.xml -->
     <style name="Widget.AppCompat.Base.ActionBar" parent="android:Widget.Holo.ActionBar"></style>
 
     <style name="Widget.AppCompat.Base.ActionBar.Solid" parent="android:Widget.Holo.ActionBar.Solid"></style>

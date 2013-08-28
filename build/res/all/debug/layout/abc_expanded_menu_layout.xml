@@ -19,4 +19,4 @@
         android:id="@+id/expanded_menu"
         android:layout_width="?attr/panelMenuListWidth"
         android:layout_height="wrap_content"/>
-<!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\layout\abc_expanded_menu_layout.xml -->
+<!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\layout\abc_expanded_menu_layout.xml -->

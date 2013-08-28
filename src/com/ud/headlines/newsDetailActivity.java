@@ -14,9 +14,9 @@ public class newsDetailActivity extends ActionBarActivity implements View.OnTouc
     final static int STEP = 200;
     FlowTextView mtxtRatio1;
     //float mRatio = 1.0f;
-    int mRatio = 1;
-    int mBaseDist;
-    int mBaseRatio;
+    double mRatio = 1;
+    double mBaseDist;
+    double mBaseRatio;
     //float fontsize = 13;
     ImageView imageView;
     FlowTextView Desc;
@@ -46,7 +46,7 @@ public class newsDetailActivity extends ActionBarActivity implements View.OnTouc
 
         mtxtRatio1 = Desc;
         mtxtRatio1.setOnTouchListener(this);
-        mtxtRatio1.setTextSize(mRatio + 13);
+        mtxtRatio1.setTextSize((int)mRatio + 13);
 
     }
 
@@ -59,11 +59,11 @@ public class newsDetailActivity extends ActionBarActivity implements View.OnTouc
                 mBaseDist = getDistance(event);
                 mBaseRatio = mRatio;
             } else {
-                int delta = (getDistance(event) - mBaseDist) / STEP;
-                int multi = (int) Math.pow(2, delta);
+                double delta = (getDistance(event) - mBaseDist) / STEP;
+                double multi = (double) Math.pow(2, delta);
                 //mRatio = Math.min(1024.0f, Math.max(0.1f, mBaseRatio * multi));
-                mRatio = Math.min(1024, Math.max(1, mBaseRatio * multi));
-                mtxtRatio1.setTextSize(mRatio + 13);
+                mRatio = Math.min(1024, Math.max(0.1, mBaseRatio * multi));
+                mtxtRatio1.setTextSize((int)mRatio + 13);
             }
         }
         return true;

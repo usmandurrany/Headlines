@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\attrs.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\attrs.xml -->
     <attr name="actionBarDivider" format="reference" />
     <attr name="actionBarItemBackground" format="reference" />
     <attr name="actionBarSize" format="dimension" />
@@ -65,16 +65,16 @@
     <attr name="textAppearanceSmallPopupMenu" format="reference" />
     <attr name="textColorSearchUrl" format="reference|color" />
     <attr name="title" format="string" />
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\bools.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\bools.xml -->
     <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
     <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\config.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\config.xml -->
     <bool name="abc_config_actionMenuItemAllCaps">true</bool>
     <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\bools.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\bools.xml -->
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
     <bool name="abc_split_action_bar_is_narrow">true</bool>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\colors.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\colors.xml -->
     <color name="AliceBlue">#F0F8FF</color>
     <color name="AntiqueWhite">#FAEBD7</color>
     <color name="Aqua">#00FFFF</color>
@@ -218,9 +218,9 @@
     <color name="abc_search_url_text_normal">#000000</color>
     <color name="abc_search_url_text_pressed">#000000</color>
     <color name="abc_search_url_text_selected">#000000</color>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\colors_ud.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\colors_ud.xml -->
     <color name="pressed_ud">#CCFFFFFF</color>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\attrs.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\attrs.xml -->
     <declare-styleable name="ActionBar">
 
         <!-- The type of navigation to use. -->
@@ -606,7 +606,7 @@
         -->
         <attr name="android:focusable" />
     </declare-styleable>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\dimens.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\dimens.xml -->
     <dimen name="abc_action_bar_default_height">48dip</dimen>
     <dimen name="abc_action_bar_icon_vertical_padding">8dip</dimen>
     <dimen name="abc_action_bar_stacked_max_height">48dp</dimen>
@@ -616,23 +616,23 @@
     <dimen name="abc_action_bar_subtitle_top_margin">-3dp</dimen>
     <dimen name="abc_action_bar_title_text_size">18dp</dimen>
     <dimen name="abc_action_button_min_width">56dip</dimen>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\config.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\config.xml -->
     <dimen name="abc_config_prefDialogWidth">320dp</dimen>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\dimens.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\dimens.xml -->
     <dimen name="abc_dropdownitem_icon_width">32dip</dimen>
     <dimen name="abc_dropdownitem_text_padding_left">8dip</dimen>
     <dimen name="abc_dropdownitem_text_padding_right">8dip</dimen>
     <dimen name="abc_panel_menu_list_width">296dp</dimen>
     <dimen name="abc_search_view_preferred_width">320dip</dimen>
     <dimen name="abc_search_view_text_min_width">160dip</dimen>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\ids.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\ids.xml -->
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
     <item name="home" type="id"/>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\dimens.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\dimens.xml -->
     <integer name="abc_max_action_buttons">2</integer>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\strings.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\strings.xml -->
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
@@ -651,7 +651,7 @@
     <string name="ptr_pull_to_refresh">Pull to refresh</string>
     <string name="ptr_refreshing">Refreshing</string>
     <string name="ptr_release_to_refresh">Release to refresh</string>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles_ud.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles_ud.xml -->
     <style name="ActionBar.Solid.Ud" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
         <item name="android:background">@drawable/ab_background_textured_ud</item>
         <item name="android:backgroundStacked">@drawable/ab_stacked_solid_ud</item>
@@ -689,7 +689,7 @@
     <style name="ProgressBar.Ud" parent="@android:style/Widget.Holo.Light.ProgressBar.Horizontal">
         <item name="android:progressDrawable">@drawable/progress_horizontal_ud</item>
     </style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles_base.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles_base.xml -->
     <style name="TextAppearance.AppCompat.Base.CompactMenu.Dialog" parent="android:TextAppearance.Medium">
         <item name="android:textColor">@android:color/primary_text_light</item>
     </style>
@@ -736,7 +736,7 @@
     <style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large"></style>
 
     <style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small"></style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles.xml -->
     <style name="TextAppearance.AppCompat.Light.SearchResult.Subtitle" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle"></style>
 
     <style name="TextAppearance.AppCompat.Light.SearchResult.Title" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Title"></style>
@@ -766,7 +766,7 @@
     <style name="TextAppearance.AppCompat.Widget.ActionMode.Title" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title"></style>
 
     <style name="TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse"></style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles_base.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles_base.xml -->
     <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu" parent="android:TextAppearance.Small">
         <item name="android:textSize">12sp</item>
         <item name="android:textStyle">bold</item>
@@ -796,19 +796,19 @@
     <style name="TextAppearance.AppCompat.Widget.Base.DropDownItem" parent="android:TextAppearance.Small">
         <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
     </style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles.xml -->
     <style name="TextAppearance.AppCompat.Widget.DropDownItem" parent="TextAppearance.AppCompat.Widget.Base.DropDownItem"></style>
 
     <style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large"></style>
 
     <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small"></style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles_base.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles_base.xml -->
     <style name="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item" parent="android:TextAppearance.Medium">
         <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
     </style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles.xml -->
     <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item"></style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\themes.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\themes.xml -->
     <style name="Theme.AppCompat" parent="Theme.Base.AppCompat">
         <item name="isLightTheme">false</item>
 
@@ -843,7 +843,7 @@
         <!-- ShareActionProvider attributes -->
         <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
     </style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\themes_base.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\themes_base.xml -->
     <style name="Theme.AppCompat.Base.CompactMenu" parent="">
         <item name="android:itemTextAppearance">            @style/TextAppearance.Widget.AppCompat.ExpandedMenu.Item</item>
         <item name="android:listViewStyle">@style/Widget.AppCompat.ListView.Menu</item>
@@ -853,7 +853,7 @@
         <item name="android:itemTextAppearance">            @style/TextAppearance.AppCompat.Base.CompactMenu.Dialog</item>
         <item name="android:listViewStyle">@android:style/Widget.ListView.Menu</item>
     </style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\themes.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\themes.xml -->
     <style name="Theme.AppCompat.CompactMenu" parent="Theme.AppCompat.Base.CompactMenu"></style>
 
     <style name="Theme.AppCompat.CompactMenu.Dialog" parent="Theme.AppCompat.Base.CompactMenu.Dialog"></style>
@@ -927,7 +927,7 @@
         <!-- ShareActionProvider attributes -->
         <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
     </style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\themes_base.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\themes_base.xml -->
     <style name="Theme.Base" parent="android:Theme"></style>
 
     <style name="Theme.Base.AppCompat" parent="Theme.Base">
@@ -1056,7 +1056,7 @@
     </style>
 
     <style name="Theme.Base.Light" parent="android:Theme.Light"></style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles_ud.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles_ud.xml -->
     <style name="Theme.Ud" parent="@android:style/Theme.Holo.Light">
         <item name="android:actionBarItemBackground">@drawable/selectable_background_ud</item>
         <item name="android:popupMenuStyle">@style/PopupMenu.Ud</item>
@@ -1073,7 +1073,7 @@
         <item name="android:popupMenuStyle">@style/PopupMenu.Ud</item>
         <item name="android:dropDownListViewStyle">@style/DropDownListView.Ud</item>
     </style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles.xml -->
     <style name="Widget.AppCompat.ActionBar" parent="Widget.AppCompat.Base.ActionBar"></style>
 
     <style name="Widget.AppCompat.ActionBar.Solid" parent="Widget.AppCompat.Base.ActionBar.Solid"></style>
@@ -1095,7 +1095,7 @@
     <style name="Widget.AppCompat.ActivityChooserView" parent="Widget.AppCompat.Base.ActivityChooserView"></style>
 
     <style name="Widget.AppCompat.AutoCompleteTextView" parent="Widget.AppCompat.Base.AutoCompleteTextView"></style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles_base.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles_base.xml -->
     <style name="Widget.AppCompat.Base.ActionBar" parent="">
         <item name="displayOptions">useLogo|showHome|showTitle</item>
         <item name="divider">?attr/dividerVertical</item>
@@ -1219,7 +1219,7 @@
         <item name="android:clickable">true</item>
         <item name="android:background">@drawable/abc_spinner_ab_holo_dark</item>
     </style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles.xml -->
     <style name="Widget.AppCompat.DropDownItem.Spinner" parent="Widget.AppCompat.Base.DropDownItem.Spinner"></style>
 
     <style name="Widget.AppCompat.Light.ActionBar" parent="Widget.AppCompat.Light.Base.ActionBar"></style>
@@ -1251,7 +1251,7 @@
     <style name="Widget.AppCompat.Light.ActivityChooserView" parent="Widget.AppCompat.Light.Base.ActivityChooserView"></style>
 
     <style name="Widget.AppCompat.Light.AutoCompleteTextView" parent="Widget.AppCompat.Light.Base.AutoCompleteTextView"></style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles_base.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles_base.xml -->
     <style name="Widget.AppCompat.Light.Base.ActionBar" parent="Widget.AppCompat.Base.ActionBar">
         <item name="background">@drawable/abc_ab_transparent_light_holo</item>
         <item name="backgroundStacked">@drawable/abc_ab_stacked_transparent_light_holo</item>
@@ -1331,7 +1331,7 @@
         <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
         <item name="android:background">@drawable/abc_spinner_ab_holo_light</item>
     </style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles.xml -->
     <style name="Widget.AppCompat.Light.DropDownItem.Spinner" parent="Widget.AppCompat.Light.Base.DropDownItem.Spinner"></style>
 
     <style name="Widget.AppCompat.Light.ListView.DropDown" parent="Widget.AppCompat.Light.Base.ListView.DropDown"></style>
@@ -1351,7 +1351,7 @@
     <style name="Widget.AppCompat.ProgressBar.Horizontal" parent="Widget.AppCompat.Base.ProgressBar.Horizontal"></style>
 
     <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Base.Spinner"></style>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\ptr_default_style.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\ptr_default_style.xml -->
     <style name="ptr_arrow">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>

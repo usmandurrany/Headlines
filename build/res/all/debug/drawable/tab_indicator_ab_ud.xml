@@ -35,4 +35,4 @@
     <item android:state_focused="true" android:state_selected="false" android:state_pressed="true" android:drawable="@drawable/tab_unselected_pressed_ud"/>
     <item android:state_focused="true" android:state_selected="true" android:state_pressed="true" android:drawable="@drawable/tab_selected_pressed_ud"/>
 </selector>
-<!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\drawable\tab_indicator_ab_ud.xml -->
+<!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\drawable\tab_indicator_ab_ud.xml -->

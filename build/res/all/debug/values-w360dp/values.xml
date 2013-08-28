@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-w360dp\dimens.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-w360dp\dimens.xml -->
     <integer name="abc_max_action_buttons">3</integer>
 
 </resources>

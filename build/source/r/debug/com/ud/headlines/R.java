@@ -20,7 +20,7 @@ public final class R {
         public static final int slide_out_left=0x7f040008;
     }
     public static final class attr {
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\attrs.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\attrs.xml 
          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -733,35 +733,35 @@ containing a value of this type.
         public static final int windowSplitActionBar=0x7f010052;
     }
     public static final class bool {
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\bools.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-land\bools.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-large\bools.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-w480dp\bools.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\bools.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-land\bools.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-large\bools.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-w480dp\bools.xml 
          */
         public static final int abc_action_bar_embed_tabs_pre_jb=0x7f050000;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-xlarge\bools.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-w720dp\bools.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-xlarge\bools.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-w720dp\bools.xml 
          */
         public static final int abc_action_bar_expanded_action_views_exclusive=0x7f050001;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\config.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\config.xml 
          */
         public static final int abc_config_actionMenuItemAllCaps=0x7f050002;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-land\config.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-large\config.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-w480dp\config.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-land\config.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-large\config.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-w480dp\config.xml 
          */
         public static final int abc_config_allowActionMenuItemTextWithIcon=0x7f050003;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\bools.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\bools.xml 
          */
         public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f050004;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-land\bools.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-large\bools.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-w480dp\bools.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-land\bools.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-large\bools.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-w480dp\bools.xml 
          */
         public static final int abc_split_action_bar_is_narrow=0x7f050005;
     }
     public static final class color {
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\colors.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\colors.xml 
          */
         public static final int AliceBlue=0x7f060000;
         public static final int AntiqueWhite=0x7f060001;
@@ -907,16 +907,16 @@ containing a value of this type.
         public static final int abc_search_url_text_normal=0x7f06008c;
         public static final int abc_search_url_text_pressed=0x7f06008d;
         public static final int abc_search_url_text_selected=0x7f06008e;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\colors_ud.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\colors_ud.xml 
          */
         public static final int pressed_ud=0x7f06008f;
     }
     public static final class dimen {
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\dimens.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-land\dimens.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-xlarge\dimens.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-w600dp\dimens.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-sw600dp\dimens.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\dimens.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-land\dimens.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-xlarge\dimens.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-w600dp\dimens.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-sw600dp\dimens.xml 
          */
         public static final int abc_action_bar_default_height=0x7f080000;
         public static final int abc_action_bar_icon_vertical_padding=0x7f080001;
@@ -927,22 +927,22 @@ containing a value of this type.
         public static final int abc_action_bar_subtitle_top_margin=0x7f080006;
         public static final int abc_action_bar_title_text_size=0x7f080007;
         public static final int abc_action_button_min_width=0x7f080008;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\config.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-large\config.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-sw600dp\config.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\config.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-large\config.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-sw600dp\config.xml 
          */
         public static final int abc_config_prefDialogWidth=0x7f080009;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\dimens.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\dimens.xml 
          */
         public static final int abc_dropdownitem_icon_width=0x7f08000a;
         public static final int abc_dropdownitem_text_padding_left=0x7f08000b;
         public static final int abc_dropdownitem_text_padding_right=0x7f08000c;
         public static final int abc_panel_menu_list_width=0x7f08000d;
         public static final int abc_search_view_preferred_width=0x7f08000e;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-large\dimens.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-large\dimens.xml 
          */
         public static final int abc_search_view_text_min_width=0x7f08000f;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-sw720dp-land\dimens.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-sw720dp-land\dimens.xml 
          */
         public static final int activity_horizontal_margin=0x7f080011;
         public static final int font_size=0x7f080010;
@@ -1078,7 +1078,7 @@ containing a value of this type.
     }
     public static final class id {
         public static final int action_bar=0x7f07001a;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\ids.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\ids.xml 
          */
         public static final int action_bar_activity_content=0x7f070014;
         public static final int action_bar_container=0x7f070019;
@@ -1165,10 +1165,10 @@ containing a value of this type.
         public static final int withText=0x7f070010;
     }
     public static final class integer {
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\dimens.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-w360dp\dimens.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-w500dp\dimens.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-sw600dp\dimens.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\dimens.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-w360dp\dimens.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-w500dp\dimens.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-sw600dp\dimens.xml 
          */
         public static final int abc_max_action_buttons=0x7f090000;
     }
@@ -1210,7 +1210,7 @@ containing a value of this type.
         public static final int main=0x7f0c0000;
     }
     public static final class string {
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\strings.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\strings.xml 
          */
         public static final int abc_action_bar_home_description=0x7f0a0000;
         public static final int abc_action_bar_up_description=0x7f0a0001;
@@ -1232,13 +1232,13 @@ containing a value of this type.
         public static final int ptr_release_to_refresh=0x7f0a0011;
     }
     public static final class style {
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles_ud.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles_ud.xml 
          */
         public static final int ActionBar_Solid_Ud=0x7f0b0000;
         public static final int ActionBar_Transparent_Ud=0x7f0b0001;
         public static final int ActionBarTabStyle_Ud=0x7f0b0002;
         public static final int ActionButton_CloseMode_Ud=0x7f0b0003;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-v11\styles.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-v11\styles.xml 
  API 11 theme customizations can go here. 
          */
         public static final int AppBaseTheme=0x7f0b0090;
@@ -1246,11 +1246,11 @@ containing a value of this type.
         public static final int DropDownNav_Ud=0x7f0b0005;
         public static final int PopupMenu_Ud=0x7f0b0006;
         public static final int ProgressBar_Ud=0x7f0b0007;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles_base.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles_base.xml 
          */
         public static final int TextAppearance_AppCompat_Base_CompactMenu_Dialog=0x7f0b0008;
         public static final int TextAppearance_AppCompat_Base_SearchResult=0x7f0b0009;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-v14\styles_base.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-v14\styles_base.xml 
          */
         public static final int TextAppearance_AppCompat_Base_SearchResult_Subtitle=0x7f0b000a;
         public static final int TextAppearance_AppCompat_Base_SearchResult_Title=0x7f0b000b;
@@ -1261,7 +1261,7 @@ containing a value of this type.
         public static final int TextAppearance_AppCompat_Light_Base_SearchResult_Title=0x7f0b0010;
         public static final int TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Large=0x7f0b0011;
         public static final int TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Small=0x7f0b0012;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles.xml 
          */
         public static final int TextAppearance_AppCompat_Light_SearchResult_Subtitle=0x7f0b0013;
         public static final int TextAppearance_AppCompat_Light_SearchResult_Title=0x7f0b0014;
@@ -1278,7 +1278,7 @@ containing a value of this type.
         public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse=0x7f0b001f;
         public static final int TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f0b0020;
         public static final int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse=0x7f0b0021;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles_base.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles_base.xml 
          */
         public static final int TextAppearance_AppCompat_Widget_Base_ActionBar_Menu=0x7f0b0022;
         public static final int TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle=0x7f0b0023;
@@ -1290,45 +1290,45 @@ containing a value of this type.
         public static final int TextAppearance_AppCompat_Widget_Base_ActionMode_Title=0x7f0b0029;
         public static final int TextAppearance_AppCompat_Widget_Base_ActionMode_Title_Inverse=0x7f0b002a;
         public static final int TextAppearance_AppCompat_Widget_Base_DropDownItem=0x7f0b002b;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles.xml 
          */
         public static final int TextAppearance_AppCompat_Widget_DropDownItem=0x7f0b002c;
         public static final int TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f0b002d;
         public static final int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0b002e;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles_base.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles_base.xml 
          */
         public static final int TextAppearance_Widget_AppCompat_Base_ExpandedMenu_Item=0x7f0b002f;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles.xml 
          */
         public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0b0030;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\themes.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\themes.xml 
          */
         public static final int Theme_AppCompat=0x7f0b0031;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\themes_base.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\themes_base.xml 
          */
         public static final int Theme_AppCompat_Base_CompactMenu=0x7f0b0032;
         public static final int Theme_AppCompat_Base_CompactMenu_Dialog=0x7f0b0033;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\themes.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\themes.xml 
          */
         public static final int Theme_AppCompat_CompactMenu=0x7f0b0034;
         public static final int Theme_AppCompat_CompactMenu_Dialog=0x7f0b0035;
         public static final int Theme_AppCompat_Light=0x7f0b0036;
         public static final int Theme_AppCompat_Light_DarkActionBar=0x7f0b0037;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\themes_base.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-v11\themes_base.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\themes_base.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-v11\themes_base.xml 
          */
         public static final int Theme_Base=0x7f0b0038;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-v14\themes_base.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-v14\themes_base.xml 
          */
         public static final int Theme_Base_AppCompat=0x7f0b0039;
         public static final int Theme_Base_AppCompat_Light=0x7f0b003a;
         public static final int Theme_Base_AppCompat_Light_DarkActionBar=0x7f0b003b;
         public static final int Theme_Base_Light=0x7f0b003c;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles_ud.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles_ud.xml 
          */
         public static final int Theme_Ud=0x7f0b003d;
         public static final int Theme_Ud_Widget=0x7f0b003e;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles.xml 
          */
         public static final int Widget_AppCompat_ActionBar=0x7f0b003f;
         public static final int Widget_AppCompat_ActionBar_Solid=0x7f0b0040;
@@ -1341,8 +1341,8 @@ containing a value of this type.
         public static final int Widget_AppCompat_ActionMode=0x7f0b0047;
         public static final int Widget_AppCompat_ActivityChooserView=0x7f0b0048;
         public static final int Widget_AppCompat_AutoCompleteTextView=0x7f0b0049;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles_base.xml 
- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-v14\styles_base.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles_base.xml 
+ From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-v14\styles_base.xml 
          */
         public static final int Widget_AppCompat_Base_ActionBar=0x7f0b004a;
         public static final int Widget_AppCompat_Base_ActionBar_Solid=0x7f0b004b;
@@ -1354,7 +1354,7 @@ containing a value of this type.
         public static final int Widget_AppCompat_Base_ActionButton_Overflow=0x7f0b0051;
         public static final int Widget_AppCompat_Base_ActionMode=0x7f0b0052;
         public static final int Widget_AppCompat_Base_ActivityChooserView=0x7f0b0053;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-v11\styles_base.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-v11\styles_base.xml 
          */
         public static final int Widget_AppCompat_Base_AutoCompleteTextView=0x7f0b0054;
         public static final int Widget_AppCompat_Base_DropDownItem_Spinner=0x7f0b0055;
@@ -1364,7 +1364,7 @@ containing a value of this type.
         public static final int Widget_AppCompat_Base_ProgressBar=0x7f0b0059;
         public static final int Widget_AppCompat_Base_ProgressBar_Horizontal=0x7f0b005a;
         public static final int Widget_AppCompat_Base_Spinner=0x7f0b005b;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles.xml 
          */
         public static final int Widget_AppCompat_DropDownItem_Spinner=0x7f0b005c;
         public static final int Widget_AppCompat_Light_ActionBar=0x7f0b005d;
@@ -1382,7 +1382,7 @@ containing a value of this type.
         public static final int Widget_AppCompat_Light_ActionMode_Inverse=0x7f0b0069;
         public static final int Widget_AppCompat_Light_ActivityChooserView=0x7f0b006a;
         public static final int Widget_AppCompat_Light_AutoCompleteTextView=0x7f0b006b;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles_base.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles_base.xml 
          */
         public static final int Widget_AppCompat_Light_Base_ActionBar=0x7f0b006c;
         public static final int Widget_AppCompat_Light_Base_ActionBar_Solid=0x7f0b006d;
@@ -1403,7 +1403,7 @@ containing a value of this type.
         public static final int Widget_AppCompat_Light_Base_ListView_DropDown=0x7f0b007c;
         public static final int Widget_AppCompat_Light_Base_PopupMenu=0x7f0b007d;
         public static final int Widget_AppCompat_Light_Base_Spinner=0x7f0b007e;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\styles.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\styles.xml 
          */
         public static final int Widget_AppCompat_Light_DropDownItem_Spinner=0x7f0b007f;
         public static final int Widget_AppCompat_Light_ListView_DropDown=0x7f0b0080;
@@ -1415,7 +1415,7 @@ containing a value of this type.
         public static final int Widget_AppCompat_ProgressBar=0x7f0b0086;
         public static final int Widget_AppCompat_ProgressBar_Horizontal=0x7f0b0087;
         public static final int Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f0b0088;
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\ptr_default_style.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\ptr_default_style.xml 
          */
         public static final int ptr_arrow=0x7f0b0089;
         public static final int ptr_header=0x7f0b008a;
@@ -1426,7 +1426,7 @@ containing a value of this type.
         public static final int ptr_textwrapper=0x7f0b008f;
     }
     public static final class styleable {
-        /**  From: C:\Users\Usman\Android Studio Projects\Headlines\res\values\attrs.xml 
+        /**  From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values\attrs.xml 
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />

@@ -104,4 +104,4 @@ This is the basic layout for a screen, with all of its features enabled.
                  android:foreground="?android:attr/windowContentOverlay"
             />
 </LinearLayout>
-<!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\layout\abc_screen.xml -->
+<!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\layout\abc_screen.xml -->

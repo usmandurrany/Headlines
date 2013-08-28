@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-large\bools.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-large\bools.xml -->
     <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-large\config.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-large\config.xml -->
     <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-large\bools.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-large\bools.xml -->
     <bool name="abc_split_action_bar_is_narrow">false</bool>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-large\config.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-large\config.xml -->
     <dimen name="abc_config_prefDialogWidth">440dp</dimen>
-    <!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\values-large\dimens.xml -->
+    <!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\values-large\dimens.xml -->
     <dimen name="abc_search_view_text_min_width">192dip</dimen>
     <dimen name="font_size">200sp</dimen>
 

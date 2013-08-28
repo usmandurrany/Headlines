@@ -17,4 +17,4 @@
            android:interpolator="@android:anim/decelerate_interpolator"
            android:fromYDelta="50%p" android:toYDelta="0"
            android:duration="@android:integer/config_mediumAnimTime"/>
-<!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\anim\abc_slide_in_bottom.xml -->
+<!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\anim\abc_slide_in_bottom.xml -->

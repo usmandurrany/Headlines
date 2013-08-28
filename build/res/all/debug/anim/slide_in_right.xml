@@ -2,4 +2,4 @@
            android:duration="@android:integer/config_mediumAnimTime"
            android:fromXDelta="100%p"
            android:toXDelta="0"
-           android:zAdjustment="top"/><!-- From: C:\Users\Usman\Android Studio Projects\Headlines\res\anim\slide_in_right.xml -->
+           android:zAdjustment="top"/><!-- From: C:\Users\MoniXx\Documents\GitHub\Headlines\res\anim\slide_in_right.xml -->

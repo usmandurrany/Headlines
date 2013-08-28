@@ -2,13 +2,13 @@
 <merger>
 
     <dataSet config="ComAndroidSupportAppcompatV71800.aar" >
-        <source path="C:\Users\Usman\Android Studio Projects\Headlines\build\exploded-bundles\ComAndroidSupportAppcompatV71800.aar\assets" />
+        <source path="C:\Users\MoniXx\Documents\GitHub\Headlines\build\exploded-bundles\ComAndroidSupportAppcompatV71800.aar\assets" />
     </dataSet>
     <dataSet config="main" >
-        <source path="C:\Users\Usman\Android Studio Projects\Headlines\assets" />
+        <source path="C:\Users\MoniXx\Documents\GitHub\Headlines\assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="C:\Users\Usman\Android Studio Projects\Headlines\src\debug\assets" />
+        <source path="C:\Users\MoniXx\Documents\GitHub\Headlines\src\debug\assets" />
     </dataSet>
 
 </merger>
